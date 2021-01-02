@@ -15,3 +15,5 @@ But what if we have a constraint that all items are sorted in an array. Can we i
 * If the target is greater than the middle element, we are confident we don't need to explore the smaller elements than the middle element.
 
 * Do we see the pattern of how we are reducing search space every time by half? That's why the time complexity of the algorithm is O(log n).*
+
+Read More [here](https://abhilasha4042.wixsite.com/mysite/post/binary-search)
