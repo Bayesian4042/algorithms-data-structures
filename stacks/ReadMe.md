@@ -1,4 +1,5 @@
-** What is Stack? **
+**What is Stack?**
+
 *A stack is a way to store data in LIFO style(Last in, first out). The order in which data arrives becomes vital in the stack. The element inserted last is the first one to be deleted. A pile of plates in a cafeteria is a good analogy of a stack data structure. The plates are added to the stack as they are cleaned, and they are placed on the top.*
 
 
