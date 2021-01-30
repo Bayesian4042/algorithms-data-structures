@@ -1,4 +1,5 @@
 **What is Stack?**
+
 *A stack is a way to store data in LIFO style(Last in, first out). The order in which data arrives becomes vital in the stack. The element inserted last is the first one to be deleted. A pile of plates in a cafeteria is a good analogy of a stack data structure. The plates are added to the stack as they are cleaned, and they are placed on the top.*
 
 
@@ -9,3 +10,5 @@
 
 
 *We can use a stack for such problems since we can keep adding a new element if it is smaller than the stack's top element. Whenever the current element is greater, we pop all the elements until we find the greater element than the current element. Let see the code in python.*
+
+Read More [here](https://abhilasha4042.wixsite.com/mysite/post/stacks)
